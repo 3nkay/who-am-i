@@ -1,0 +1,5 @@
+micronaut:
+    application:
+        name: who-am-i
+    server:
+        port: 8080

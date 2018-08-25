@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: who.am.i
+---
+testFramework: spock
+sourceLanguage: groovy
